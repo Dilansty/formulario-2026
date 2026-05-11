@@ -1,8 +1,8 @@
 # formulario-2026
 
-Formulário de Consumo de API
+## Formulário de Consumo de API
 
-Termo de Abertura de Projeto(TAP)
+### Termo de Abertura de Projeto(TAP)
 
 ## Controle de Versões
 | Versão | Data | Autor | Nota da Revisão |
@@ -22,17 +22,27 @@ Foco no aprendizado e implementação da API ao front-end
 ### Equipe do Projeto
 [Defina nomes, responsabilidades e nível de autoridade]
 
-Gerente do Projeto: Fernando Leonid
+#### Gerente do Projeto: 
+Fernando Leonid
 
-Patrocinador: Fernando Leonid
+#### Patrocinador:
+Fernando Leonid
 
-Premissas e Restrições
+### Premissas e Restrições
 Evoluir o projeto para registrar em um banco de dados os dados cadastrados no input, evitar afetar o sistema por quedas da API
 
-Entregáveis
-Consumo da API em tela já pronta para receber dados
+### Entregáveis
+|Classificação| EndPoint | Tipo |
+| :--- | :--- | :--- |
+| API | search-CEP | GET |
+| :--- | :--- | :--- |
+| doc | TAP | developer|
+| doc | Getting Started | Users|
 
-Marcos
+
+ Consumo da API em tela já pronta para receber dados
+
+#### Marcos
 Linkar a API, verificação da documentação para consumo devido
 
 | Marcos | Previsão | 
@@ -40,9 +50,9 @@ Linkar a API, verificação da documentação para consumo devido
 | linkar a API | 20/04/2026 |
 | consmir API/CEP |20/04/2026|
 
-Riscos
-[Descreva os principais riscos do projeto]
+### Riscos
+Queda da API ou atingir limite de requisições
 
-Fluxo de Caixa do Projeto
-[Principais entradas e saídas financeiras do projeto com o valor presente líquido calculado.]
+### Fluxo de Caixa do Projeto
+Projeto com intuito educacional
 
